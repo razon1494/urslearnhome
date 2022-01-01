@@ -1,0 +1,18 @@
+h2{
+    
+}
+
+.welcome-h4{
+    text-transform: uppercase;
+    color: #619A9A;
+    letter-spacing: 2px;
+}
+.welcome-h2{
+    text-transform: uppercase;
+    color: #207171;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+.welocme-icon{
+    color: goldenrod;
+}
